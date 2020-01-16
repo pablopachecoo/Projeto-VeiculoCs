@@ -1,0 +1,11 @@
+C:\Users\POPF\source\repos\Projeto-Veiculo\Projeto-Veiculo\obj\Debug\netcoreapp3.1\Projeto-Veiculo.csprojAssemblyReference.cache
+C:\Users\POPF\source\repos\Projeto-Veiculo\Projeto-Veiculo\obj\Debug\netcoreapp3.1\Projeto-Veiculo.AssemblyInfoInputs.cache
+C:\Users\POPF\source\repos\Projeto-Veiculo\Projeto-Veiculo\obj\Debug\netcoreapp3.1\Projeto-Veiculo.AssemblyInfo.cs
+C:\Users\POPF\source\repos\Projeto-Veiculo\Projeto-Veiculo\bin\Debug\netcoreapp3.1\Projeto-Veiculo.exe
+C:\Users\POPF\source\repos\Projeto-Veiculo\Projeto-Veiculo\bin\Debug\netcoreapp3.1\Projeto-Veiculo.deps.json
+C:\Users\POPF\source\repos\Projeto-Veiculo\Projeto-Veiculo\bin\Debug\netcoreapp3.1\Projeto-Veiculo.runtimeconfig.json
+C:\Users\POPF\source\repos\Projeto-Veiculo\Projeto-Veiculo\bin\Debug\netcoreapp3.1\Projeto-Veiculo.runtimeconfig.dev.json
+C:\Users\POPF\source\repos\Projeto-Veiculo\Projeto-Veiculo\bin\Debug\netcoreapp3.1\Projeto-Veiculo.dll
+C:\Users\POPF\source\repos\Projeto-Veiculo\Projeto-Veiculo\bin\Debug\netcoreapp3.1\Projeto-Veiculo.pdb
+C:\Users\POPF\source\repos\Projeto-Veiculo\Projeto-Veiculo\obj\Debug\netcoreapp3.1\Projeto-Veiculo.dll
+C:\Users\POPF\source\repos\Projeto-Veiculo\Projeto-Veiculo\obj\Debug\netcoreapp3.1\Projeto-Veiculo.pdb
